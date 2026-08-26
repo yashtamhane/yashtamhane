@@ -1,40 +1,70 @@
 # Hi, I'm Yash 👋
 
-### 🎓 Senior Computer Science Student @ Stony Brook University
-**Specialization in Security & Privacy**
+### 💻 Software Engineer | Stony Brook University CS Graduate
 
-I am a Full-Stack Engineer and Security Researcher with a focus on building high-performance, secure applications. My experience ranges from optimizing enterprise-level APIs to identifying system vulnerabilities and developing privacy-preserving architectures.
+**B.S. Computer Science · Specialization in Security & Privacy**
+
+I'm a software engineer interested in backend systems, developer tools, security, and AI-powered applications. I've worked across full-stack engineering and security research, from building and optimizing production services to finding vulnerabilities in mobile systems and developing privacy-preserving distributed architectures.
 
 ---
 
-### 💼 Professional Experience & Research
-* **Full Stack Engineering Intern @ Beyond Exclamation:** Optimized Node.js/React components, reducing load times by 18% and response times by 20ms.
-* **Software Engineering Intern @ ElectRay:** Developed real-time data visualization in React and architected Python-based microservices using FastAPI.
-* **Security Researcher @ SBU:** Conducted vulnerability analysis on mobile SDKs and designed AES-encrypted data sharing systems for distributed agents.
+### 💼 Engineering & Research Experience
+
+- **Software Engineering Intern @ Beyond Exclamation:** Built and optimized Node.js APIs and React/TypeScript components, reducing load times by 18%, and improved reliability through automated testing, Docker, and AWS monitoring.
+- **Security Research @ Stony Brook University:** Built Android attacker-victim models in Kotlin and Java, identified 3 Samsung Knox vulnerabilities, and developed proof-of-concept exploits for permission bypasses and remote hardware access.
+- **Software Engineering Intern @ ElectRay Technologies:** Built React dashboards for ECU diagnostics and FastAPI services for processing ECU logs, improving throughput by 35%.
+- **Backend Research @ Stony Brook University:** Developed privacy-preserving communication between distributed agents using AES, TLS, and HMAC for 500+ sensitive exchanges.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-- **Languages:** Python, JavaScript (ES6+), SQL, HTML5, CSS3, C
-- **Frameworks/Libraries:** React, Node.js, Express, FastAPI, MERN Stack
-- **Databases & DevOps:** PostgreSQL, MongoDB, Docker, Git, CI/CD (GitHub Actions)
-- **Security & Auth:** JWT, Bcrypt, AES Encryption, Ethical Hacking, CCNA
+- **Languages:** Java, Python, C++, Go, TypeScript, JavaScript, SQL, Kotlin
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express, FastAPI, Jest, Pytest
+- **Databases & Messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ, MySQL
+- **Cloud & DevOps:** Docker, AWS, GitHub Actions, Git, Linux/Unix
+- **Security:** JWT, OAuth2, AES Encryption, RBAC, Web Security, Wireshark
+- **AI:** LLMs, GenAI applications, Anthropic API
 
 ---
 
 ### 🚀 Featured Projects
-* **SAM - Academic Management System:** A full-stack solution featuring a declarative degree-audit engine and RBAC.
-* **Stack Overflow Clone:** A scalable Q&A platform built with the MERN stack and secure JWT authentication.
-* **Personal Portfolio:** A high-performance site featuring 3D carousels and smooth scroll effects.
+
+#### 🌱 SproutJobs
+**Free, local-first job discovery for new-grad software engineers**
+
+Discovers software roles across thousands of Ashby-hosted company boards, analyzes entry-level eligibility and experience requirements, detects work-authorization restrictions, collapses duplicate postings, and serves everything through a local searchable dashboard.
+
+**Python · SQLite · HTTP · Automated Discovery · Heuristic Classification**
+
+[View SproutJobs →](https://github.com/yashtamhane/SproutJobs)
+
+#### 🎧 Mix3r
+**Local-first AI-assisted DJ remix workspace**
+
+A browser-based remix environment for experimenting with electronic music, featuring waveform editing, beat-aware regions, stem separation, synchronized playback, and local audio processing.
+
+**Next.js · TypeScript · FastAPI · Python · Demucs**
+
+#### ✨ YTailor
+**AI-native resume tailoring system**
+
+Built a structured job-to-resume matching and tailoring pipeline with multi-stage LLM processing and Redis-backed caching and queuing.
+
+**Next.js · Python · Redis · Anthropic API**
+
+#### 📡 VibeIt
+**Real-time event monitoring platform**
+
+Built automated venue monitoring with resilient data collection, content-change detection, PostgreSQL persistence, and browser automation.
+
+**TypeScript · Node.js · PostgreSQL · Playwright**
 
 ---
 
-### 🏃 Beyond the Code
-When I'm not at my desk, I'm usually:
-* **At the Gym:** Focused on strength training and fitness 🏋️‍♂️
-* **At the Cinema:** Watching movies and appreciating great storytelling 🎬
-* **Listening to Music:** Always exploring new tracks and genres 🎵
+### 🔍 What I'm Working On
+
+I'm currently building open-source developer tools and systems projects while looking for software engineering opportunities where I can work on challenging backend, infrastructure, security, or product engineering problems.
 
 ---
 
