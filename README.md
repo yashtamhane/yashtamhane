@@ -6,7 +6,11 @@
 
 I'm a software engineer focused on **backend systems, distributed systems, developer tools, security, and AI-powered applications**. My experience spans production software engineering and academic security research, from optimizing APIs and building real-time distributed systems to identifying mobile security vulnerabilities and designing privacy-preserving architectures.
 
-I enjoy building systems that are useful, measurable, and reliable — especially tools that solve problems I've run into myself.
+I'm especially passionate about **AI and the possibilities of building at the edge of what technology can do**. I want to contribute to advancing AI itself, but I'm just as interested in turning those advances into products and systems that solve real problems and genuinely improve people's lives.
+
+I'm drawn to **startups, ambitious teams, and difficult problems** where engineers have the freedom to experiment, move quickly, and build things that haven't existed before. Whether it's AI infrastructure, developer tooling, distributed systems, or a completely new product, what excites me most is taking an idea and turning it into something people can actually use.
+
+Ultimately, I want to spend my career **building technology that pushes things forward**: systems that are useful, measurable, reliable, and capable of making a meaningful impact.
 
 ---
 
